@@ -246,8 +246,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -274,13 +274,13 @@
   "active": "063fd8169de9eb52",
   "lastOpenFiles": [
     "DuckDB.md",
+    "Apache Airflow.md",
     "C4 Model.md",
     "Dify.md",
     "RabbitMQ.md",
     "ClickHouse.md",
     "Apache Pulsar.md",
     "Apache Kafka.md",
-    "Dagster.md",
-    "Apache Airflow.md"
+    "Dagster.md"
   ]
 }
