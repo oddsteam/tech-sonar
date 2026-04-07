@@ -1,0 +1,1 @@
+> An open-standard, markdown-based file format used to define specific capabilities, workflows, and constraints for AI agents.

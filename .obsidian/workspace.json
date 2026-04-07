@@ -4,40 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "72e7e44178163d42",
+        "id": "35847b932dd6d538",
         "type": "tabs",
-        "dimension": 64.3758765778401,
+        "dimension": 68.5501066098081,
         "children": [
           {
-            "id": "bcb22268da7aa4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apache Airflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apache Airflow"
-            }
-          },
-          {
-            "id": "a3267243f5e4fe26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ghost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ghost"
-            }
-          },
-          {
-            "id": "4123ff496dc81946",
+            "id": "168f7fa0cb6a9102",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,192 +21,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "39c7529dfc9e72aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Promptfoo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Promptfoo"
-            }
-          },
-          {
-            "id": "4e874ca1464cdd6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Bedrock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon Bedrock"
-            }
-          },
-          {
-            "id": "c270d701d33b3db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strands Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strands Agents"
-            }
-          },
-          {
-            "id": "a9e748cb8f9eda4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agent Development Kit (ADK).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agent Development Kit (ADK)"
-            }
-          },
-          {
-            "id": "45015fda2e1aabcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub Copilot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub Copilot"
-            }
-          },
-          {
-            "id": "e3d47c4b25c43986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Codex"
-            }
-          },
-          {
-            "id": "b5e3005c81274aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LangChain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LangChain"
-            }
-          },
-          {
-            "id": "a9ededb37080fbca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Langfuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Langfuse"
-            }
-          },
-          {
-            "id": "4ba9146df831ea84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BrowserStack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BrowserStack"
-            }
-          },
-          {
-            "id": "809a30f4ee83c49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Django"
-            }
-          },
-          {
-            "id": "7f911a4686c1b718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FastAPI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FastAPI"
-            }
-          },
-          {
-            "id": "4cd33c99e7a778bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ClickHouse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClickHouse"
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       },
       {
-        "id": "35847b932dd6d538",
+        "id": "3ca0d45d638647f5",
         "type": "tabs",
-        "dimension": 35.62412342215989,
+        "dimension": 31.449893390191896,
         "children": [
           {
-            "id": "4d2c98a9395cc8d1",
+            "id": "4bc7e675b524551b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ClickHouse.md",
+                "file": "README.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -260,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ClickHouse"
+              "title": "Graph of README"
             }
           }
         ]
@@ -439,35 +242,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd33c99e7a778bc",
+  "active": "168f7fa0cb6a9102",
   "lastOpenFiles": [
+    "README.md",
+    "Apache Airflow.md",
+    "Ghost.md",
+    "Promptfoo.md",
+    "Amazon Bedrock.md",
+    "Strands Agents.md",
+    "Agent Development Kit (ADK).md",
+    "GitHub Copilot.md",
+    "Codex.md",
+    "LangChain.md",
+    "Langfuse.md",
+    "BrowserStack.md",
+    "Django.md",
+    "FastAPI.md",
+    "ClickHouse.md",
+    "Prompt Engineering.md",
+    "Continuous Compliance.md",
+    "AGENTS.md.md",
+    "Model Context Protocol (MCP).md",
+    "n8n.md",
+    "Coder.md",
+    "SKILL.md.md",
     "dbt.md",
     "Flask.md",
-    "FastAPI.md",
-    "Django.md",
-    "BrowserStack.md",
-    "Langfuse.md",
-    "LangChain.md",
-    "Codex.md",
-    "GitHub Copilot.md",
-    "Agent Development Kit (ADK).md",
-    "Strands Agents.md",
-    "Amazon Bedrock.md",
-    "Promptfoo.md",
-    "README.md",
-    "Ghost.md",
-    "Apache Airflow.md",
     "Assets/Attachments",
     "Assets",
     "Trivy.md",
-    "Kubernetes.md",
-    "Kamal.md",
-    "RAGFlow.md",
-    "Ray.md",
-    "Kubeflow.md",
-    "MLflow.md",
-    "Feast.md",
-    "Dagster.md",
-    "PostHog.md"
+    "Kubernetes.md"
   ]
 }
