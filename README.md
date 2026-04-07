@@ -2,7 +2,7 @@
 
 > Inspired by Thoughtworks Technology Radar
 
-เครื่องมือที่ใช้คือ [Obsidian](https://obsidian.md/)
+เครื่องมือที่ใช้เขียนคือ [Obsidian](https://obsidian.md/)
 
 ## วิธีการเขียน
 
