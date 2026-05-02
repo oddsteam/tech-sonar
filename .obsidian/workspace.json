@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "35847b932dd6d538",
+        "id": "3ca0d45d638647f5",
         "type": "tabs",
-        "dimension": 68.5501066098081,
+        "dimension": 62.903225806451616,
         "children": [
           {
-            "id": "168f7fa0cb6a9102",
+            "id": "c6307a4cb4fa2620",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "3ca0d45d638647f5",
+        "id": "8655e86cb0c4d856",
         "type": "tabs",
-        "dimension": 31.449893390191896,
+        "dimension": 37.096774193548384,
         "children": [
           {
-            "id": "4bc7e675b524551b",
+            "id": "d74049863d2877fd",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -242,9 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "168f7fa0cb6a9102",
+  "active": "c6307a4cb4fa2620",
   "lastOpenFiles": [
+    "Dagster.md",
     "README.md",
+    "Data Pipeline.md",
+    "Temporal.md",
     "Apache Airflow.md",
     "Ghost.md",
     "Promptfoo.md",
@@ -267,10 +270,7 @@
     "Coder.md",
     "SKILL.md.md",
     "dbt.md",
-    "Flask.md",
     "Assets/Attachments",
-    "Assets",
-    "Trivy.md",
-    "Kubernetes.md"
+    "Assets"
   ]
 }
