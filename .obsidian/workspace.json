@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "bc490904d34cba6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8655e86cb0c4d856",
@@ -35,7 +48,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +75,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Local graph"
             }
           }
         ]
@@ -242,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6307a4cb4fa2620",
+  "active": "bc490904d34cba6c",
   "lastOpenFiles": [
     "Dagster.md",
     "README.md",
